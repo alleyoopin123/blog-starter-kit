@@ -1,6 +1,6 @@
 ---
-title: "How to Withdraw PF and EPF After Leaving a Job?"
-excerpt: "Leaving a job doesn’t mean leaving your hard-earned savings behind. Your Provident Fund (PF) and Employees’ Provident Fund (EPF) continue to safeguard your future even after you resign. With the right steps, you can transfer or withdraw your balance, avoid unnecessary delays, and ensure your retirement nest egg keeps growing. Learn how to claim your PF/EPF smartly and turn your savings into a stronger, more secure retirement plan."
+title: "Activewear - The Ultimate Guide to Fitness Fashion"
+excerpt: "The gym is not just a venue for flexing muscles, it's also a stage for flexing one's personal style. In this guide, we will illuminate the role of workout wear..."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2025-12-04T05:35:07.322Z"
 author:
