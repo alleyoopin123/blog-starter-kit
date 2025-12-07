@@ -45,16 +45,5 @@ The Chernobyl Nuclear Power Plant, infamous for the 1986 disaster, has long been
 
 ---
 
-## Quick Comparison: Before vs. After Damage  
-
-| Aspect                     | Before February 2025 | After February 2025 |
-|-----------------------------|----------------------|---------------------|
-| Confinement ability         | Fully functional     | Severely compromised |
-| Structural integrity        | Stable steel arch    | Damaged panels, weakened |
-| Safety outlook              | 100-year design life | Immediate repair needed |
-| Global perception           | Symbol of resilience | Symbol of vulnerability |
-
----
-
 ## Conclusion  
 The **Chernobyl protective shield** was humanity’s promise to contain one of history’s worst nuclear disasters. Today, that promise is under threat. The damage caused by conflict highlights not only the fragility of engineered solutions but also the urgent need for international cooperation to safeguard sites of global importance.
